@@ -1,0 +1,41 @@
+<body>
+ <!-- Начало изображения -->
+ <!-- Невидимое поле -->
+ <div class="yabox">
+   
+    <!-- Лоток -->
+    <div class="lotok1"></div>
+    <div class="lotok2"></div>
+    <div class="lotok3"></div>
+      
+       
+       <!-- корпус -->
+       <div class="korpus_grey"></div>
+           <!-- держатель черн трапеция прямоугольная -->
+           <div class="derjatel_trap"></div>
+             <!-- держатель серый прямоугольник -->
+             <div class="derjatel2"> </div>
+                 <!-- держатель черный прямоугольник -->
+                 <div class="derjatel1"></div>
+                     <!-- палка -->
+                     <div class="palka"></div>
+                         <!-- флаг -->
+                         <div class="flag"></div>
+                     
+                 
+       <div class="korpus_orange2"></div>
+       <div class="korpus_orange1"></div>
+       
+      
+       <!-- Колеса -->
+      <div class="koleso1"></div>
+      <div class="koleso2"></div>
+      <div class="koleso3"></div>
+      
+    <!-- Конец лотка -->
+    
+    
+    
+ <!-- Конец невидимого поля -->
+ </div>
+</body>
